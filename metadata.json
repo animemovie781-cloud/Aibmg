@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse",
+  "description": "A premium movie and anime streaming app integrated with custom backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
